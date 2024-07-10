@@ -1,6 +1,6 @@
-package n2exercici2;
+package n2exercici1;
 
-import n2exercici2.MetodePagament.MetodePagament;
+import n2exercici1.MetodePagament.MetodePagament;
 
 public class PasarelaPagament {
     public void procesarPagament(MetodePagament metodePagament, double quantitat) {

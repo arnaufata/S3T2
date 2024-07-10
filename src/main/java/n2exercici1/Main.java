@@ -1,9 +1,9 @@
-package n2exercici2;
+package n2exercici1;
 
-import n2exercici2.MetodePagament.DeuteCompteBancari;
-import n2exercici2.MetodePagament.MetodePagament;
-import n2exercici2.MetodePagament.Paypal;
-import n2exercici2.MetodePagament.TargetaCredit;
+import n2exercici1.MetodePagament.DeuteCompteBancari;
+import n2exercici1.MetodePagament.MetodePagament;
+import n2exercici1.MetodePagament.Paypal;
+import n2exercici1.MetodePagament.TargetaCredit;
 
 public class Main {
     public static void main(String[] args) {

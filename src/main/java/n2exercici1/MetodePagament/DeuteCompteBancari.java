@@ -1,4 +1,4 @@
-package n2exercici2.MetodePagament;
+package n2exercici1.MetodePagament;
 
 public class DeuteCompteBancari implements MetodePagament {
 
